@@ -68,6 +68,7 @@ navbar {
     text-decoration-line: underline;
     color: #918E9B;
     margin-left: 10px;
+    cursor: pointer;
 }
 
 .country--title {
